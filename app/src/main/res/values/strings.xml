@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApkWrzesien</string>
+    <string name="button_koniec">Koniec</string>
+    <string name="przycisk_obrot">Obrót</string>
+    <string name="przycisk_skalowanie">Skalowanie</string>
+    <string name="przycisk_przesuw">Przesuw</string>
+    <string name="przycisk_zanik">Zanik</string>
+</resources>
